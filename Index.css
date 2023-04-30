@@ -16,7 +16,7 @@ body::before{
     position: fixed;
     z-index: -1;
     background-image: linear-gradient(135deg, rgba(125, 169, 199, 0.9), rgba(55, 80, 94, 0.7)),
-    url("https://my.empowergmat.com/theme/gre/img/login-back.jpg");
+    url("https://media.istockphoto.com/id/1479179964/photo/abstract-question-mark-sign.jpg?b=1&s=170667a&w=0&k=20&c=ZBrmAYo2OWg8BBIcMYBKI70jyYK3JTvnInXJpXRatfs=");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
